@@ -1,0 +1,104 @@
+commit 5f493d0b480b01321ad4fe138c0bfbc50f3c073b
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Fri Jan 12 09:16:00 2024 -0500
+
+    Agregando 2 párrafos
+
+commit 02a24ad1e4ab96ef4efc0e71dee23239fbec3ded
+Merge: 07698a4 9550489
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Fri Jan 12 09:10:19 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 07698a4711fef19e191700fcd28961ff6cfe10fc
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 18:00:16 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 9550489ad39bcd3033ac4be25d595482e5cbcfea
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 18:00:16 2024 -0500
+
+    Agregando las estaciones del año
+
+commit 46974c2ea50ca65ccd61cfdf2bfef5b0e8911f44
+Merge: 3e6b0cb 161b494
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 17:45:11 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 161b494d9905c3616adf08fab183db433f06fc7f
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 17:27:11 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 3e6b0cba6b0438fe9756f6e73ab6d98af6ac7d3f
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 17:21:11 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 15e976efc5ed52f07efe75db96faacc0e88ba0c6
+Merge: cde47bb ae180eb
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 10:38:15 2024 -0500
+
+    Merge branch 'js'
+
+commit ae180eb6ba5f326db32477d65a2d432172e7974d
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 10:23:59 2024 -0500
+
+    Creando index.js
+
+commit cde47bbca431c7737aacdeb1f4b1d07032147f4e
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Thu Jan 11 10:18:39 2024 -0500
+
+    Agregando style.css
+
+commit b9c678702694a27effababf3c6ab955a1a44c86a
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Mon Dec 25 18:47:26 2023 -0500
+
+    Creando style.css
+
+commit 4a2bc9f2b66cc87b4e30786775a157869f5a1d3c
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Mon Dec 25 15:11:26 2023 -0500
+
+    Creando index.html
+
+commit 10c3bf38b703bef01fcf418a848a99ca66006580
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Sun Dec 24 10:45:31 2023 -0500
+
+    Ignorando archivos .exe
+
+commit 4e7ea5450815985ecd26165fdda1e0df3f83445d
+Author: Ronald19990527 <154629922+Ronald19990527@users.noreply.github.com>
+Date:   Sun Dec 24 09:13:28 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 54a692fc4cf746fe31254d49f1cce92d7437cf37
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Sat Dec 23 19:53:15 2023 -0500
+
+    Agregando más contenido al README
+
+commit f08f7e50e692bdd2f463645c81794e5680a18b0a
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Sat Dec 23 19:19:39 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit c8926f056e31c43dbb5e93ade84e33b8fb4b0ead
+Author: Ronald19990527 <ronaldhernandezdp@unimagdalena.edu.co>
+Date:   Sat Dec 23 18:59:13 2023 -0500
+
+    Primer commit 😅
